@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hiRafa
-- 👀 I’m interested in Web Development, Dancing, VFX, Cooking, etc.
-- 🌱 I’m currently learning HTML/CSS/Javascript
-- 💞️ I’m looking to collaborate on projects where I can learn a lot and improve in my career as fast as possible.
+- 🌱 I’m currently learning Go and Further improving engineering skills
 - 📫 email: hirashiki.rafa@gmail.com
+- 👀 I’m interested Dancing, VFX, Cooking, Swimming, Games, Calisthenics.
+- Fields I am passionate about and would like to contribute to: nature, human and animal causes, health, science, neuroscience, games and entertainment
 
 <!---
 hiRafa/hiRafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
